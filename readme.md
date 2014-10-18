@@ -1,4 +1,5 @@
 # Demonstration and Evaluation of Sinon.JS and Qunit.
+**[View The Demo](http://www.briankapke.com/Sinon-Demo)**
 ##Overview
 The following project demonstrates some basic mocking and unit testing inside of a JavaScript application.  It is more or less
 designed to be a reference for setting up future projects.  See below for details and assertions.
